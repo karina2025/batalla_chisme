@@ -1,24 +1,17 @@
 {
-  "name": "batalla_chisme",
+  "name": "batalla-chismes",
   "version": "1.0.0",
-  "description": "",
+  "description": "Modelado de chismosas profesionales y batalla de chismes.",
   "main": "index.js",
+  "type": "module", 
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/karina2025/batalla_chisme.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/karina2025/batalla_chisme/issues"
-  },
-  "homepage": "https://github.com/karina2025/batalla_chisme#readme",
   "dependencies": {
-    "chalk": "^5.4.1"
+    "chalk": "^5.3.0"
   }
 }
