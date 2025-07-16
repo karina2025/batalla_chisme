@@ -62,7 +62,7 @@ Para poner en marcha la "Batalla de Chismes", sigue estos sencillos pasos:
 
 2.  **Navegar al directorio del proyecto:**
     ```bash
-    cd batalla_chisme # O el nombre que tenga tu carpeta raíz
+    cd batalla_chisme 
     ```
 
 3.  **Instalar dependencias:**
